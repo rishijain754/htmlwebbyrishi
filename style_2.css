@@ -28,5 +28,8 @@ ul {
 
   h1 {
     text-align: center;
+  }
 
+  h2 {
+      text-transform: lowercase;
   }
