@@ -29,4 +29,5 @@ ul {
   h1 {
     text-align: center;
     border: green;
+    border-width: 1px;
   }
